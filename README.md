@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush Agrawal</h1>
 <h3 align="center">A Dedicated Software Development Engineer with consistent skill development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush35&label=Profile%20views&color=0e75b6&style=flat" alt="ayush35" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush35" alt="ayush35" /></a> </p>
-
 - 🔭 I’m currently working on [Agriculture Zone](https://github.com/Ayush35/Agriculture_Zone)
 
 - 🌱 I’m currently Improving my Skills in **Data Science and working Further on Data Structures and Algorithms**
@@ -17,8 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ayush-agrawal-a13461153/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayush-agrawal-a13461153/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/ayush35" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/ayush35" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ayush-agrawal-a13461153" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayush-agrawal-a13461153" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/thisisayushagrawal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/thisisayushagrawal/" height="30" width="40" /></a>
 </p>
 
