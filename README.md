@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **thisisayushagrawal@gmail.com**
 
-- 📄 Know about Me [https://drive.google.com/file/d/1Xwb1GKk91IC25w6QPmNQlipsnPpSXgvo/view?usp=share_link](https://drive.google.com/file/d/1Xwb1GKk91IC25w6QPmNQlipsnPpSXgvo/view?usp=share_link)
+- 📄 Know about Me [Resume](https://drive.google.com/file/d/1Xwb1GKk91IC25w6QPmNQlipsnPpSXgvo/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
