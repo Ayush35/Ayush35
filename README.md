@@ -9,7 +9,8 @@
 
 - 📫 How to reach me **thisisayushagrawal@gmail.com**
 
-- 📄 Know about Me [Resume](https://drive.google.com/file/d/1Xwb1GKk91IC25w6QPmNQlipsnPpSXgvo/view?usp=share_link)
+- 📄 Know about Me [Resume](https://drive.google.com/file/d/1Xwb1GKk91IC25w6QPmNQlipsnPpSXgvo/view?usp=share_link[Resume-Ayush_Agrawal.pdf](https://github.com/Ayush35/Ayush35/files/9903330/Resume-Ayush_Agrawal.pdf)
+)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
