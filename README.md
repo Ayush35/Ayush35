@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Agrawal</h1>
 <h3 align="center">A Dedicated Software Development Engineer with consistent skill development</h3>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 - 🔭 I’m currently working on [Agriculture Zone](https://github.com/Ayush35/Agriculture_Zone)
 
 - 🌱 I’m currently Improving my Skills in **Data Science and working Further on Data Structures and Algorithms**
